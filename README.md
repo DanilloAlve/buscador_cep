@@ -20,7 +20,3 @@ Este projeto consiste em um buscador de CEP desenvolvido em HTML, CSS e JavaScri
 2. Abra o arquivo `index.html` em um navegador da web.
 3. Insira um CEP válido no campo de busca e pressione o botão "Buscar".
 4. Aguarde a resposta para ver as informações detalhadas sobre o endereço associado ao CEP inserido.
-
-## Exemplo
-
-Você pode visualizar uma demonstração ao vivo do buscador de CEP [aqui](URL_DE_DEMO).
